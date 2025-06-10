@@ -2,6 +2,8 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { Plane, Facebook, Twitter, Instagram, Youtube, Mail, Phone, MapPin } from 'lucide-react';
 
+
+
 const Footer: React.FC = () => {
   return (
     <footer className="bg-gray-900 text-white pt-12 pb-6">
